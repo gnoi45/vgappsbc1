@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417748427407",
+    "firebase_url": "https://blindchat-ef085.firebaseio.com",
+    "project_id": "blindchat-ef085",
+    "storage_bucket": "blindchat-ef085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417748427407:android:ac7354c2b48cf9993b46fa",
+        "android_client_info": {
+          "package_name": "com.blindchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417748427407-hsa86k9d9en5l7jqcmkj391f0uo4ok5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDibq49FU8BRn0prJ15UNffISI3b-tLoOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417748427407-hsa86k9d9en5l7jqcmkj391f0uo4ok5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blindchat</string>
+    <string name="facebook_app_id">3111971482225729</string>
+    <string name="fb_login_protocol_scheme">fb3111971482225729</string>
+    <string name="my_link">
+        <a href="#">By selecting, you agree to the terms and conditions</a>
+    </string>
+    <string name="tab_text_1">Chat with Strangers</string>
+    <string name="tab_text_2">Chat with Friends</string>
+    <string name="testr">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
